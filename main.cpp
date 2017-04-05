@@ -1,5 +1,5 @@
 int main()
 {
     int x = readNum();
-    writeNum(x+10);
+    writeNum(x+12);
 }
